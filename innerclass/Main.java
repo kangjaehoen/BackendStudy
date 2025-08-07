@@ -7,7 +7,7 @@ public class Main {
 
         OuterClass.InnerClass4 staticInner = new OuterClass.InnerClass4();
         staticInner.hello();
-        System.out.println("이너 클래스");
+        System.out.println("이너 클래스1");
 
     }
 }
